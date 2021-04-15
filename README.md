@@ -8,7 +8,9 @@ Splash Screen : Just splash screen
     ~~~(xml) 
     <item name="android:windowBackground">@drawable/launch_background</item> 
     ~~~
-    이미지 화일명이 <q>launch_background</q>
+    이미지 화일명이 <q>launch_background</q> 이므로 이미지 화일명도 동일하게 맞춘다.
+3. 참고 이미지를 사이즈 별로 만들어 주는 사이트
+    [App Icon Generator](https://appicon.co/#image-sets)
 
 
 ## Getting Started
