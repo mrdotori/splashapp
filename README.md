@@ -5,9 +5,9 @@ Splash Screen : Just splash screen
 ## android
 1. android/app/src/main/res/ 폴더에 drawable 폴더들에 각각 이미지를 넣는다.
 2. android/app/src/main/res/values 폴더의 styles.xml 화일을 보면
-    ~~(xml) 
+    ~~~(xml) 
     <item name="android:windowBackground">@drawable/launch_background</item> 
-    ~~
+    ~~~
     이미지 화일명이 >launch_background<
 
 
