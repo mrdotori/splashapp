@@ -8,7 +8,7 @@ Splash Screen : Just splash screen
     ~~~(xml) 
     <item name="android:windowBackground">@drawable/launch_background</item> 
     ~~~
-    이미지 화일명이 >launch_background<
+    이미지 화일명이 <q>launch_background</q>
 
 
 ## Getting Started
