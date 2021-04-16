@@ -9,7 +9,8 @@ Splash Screen : Just splash screen
     <item name="android:windowBackground">@drawable/launch_background</item> 
     ~~~
     이미지 화일명이 <q>launch_background</q> 이므로 이미지 화일명도 동일하게 맞춘다.
-3. 참고 이미지를 사이즈 별로 만들어 주는 사이트
+3. 128, 192, 256, 384, 512  사이즈의 정방형 이미지를 기본으로하고, mdpi(1x), hdpi(1.5x), xhdpi(2x), xxhdpi(3x), xxxhdpi(4x) 까지 5개를 각 drawable 폴더에 넣어 주면 된다.
+4. 참고 이미지를 사이즈 별로 만들어 주는 사이트
     [App Icon Generator](https://appicon.co/#image-sets)
 
 
